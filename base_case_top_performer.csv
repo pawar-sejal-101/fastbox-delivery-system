@@ -1,0 +1,5 @@
+agent_id,packages_delivered,total_distance,efficiency
+A3,1,14.14,14.14
+
+package_id,warehouse,warehouse_location,destination
+P3,W3,"(100.0, 25.0)","(105.0, 20.0)"

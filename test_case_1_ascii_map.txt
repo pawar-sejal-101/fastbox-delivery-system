@@ -1,0 +1,29 @@
+                                                                  A   
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                           .                                          
+                                                                      
+                    W                                                 
+                                                                      
+.                                                                     
+                                 A                     . W            
+       A    .                                              A          
+                      .                                   .           
+     W                                                                
+    .                   .                                             
+                  W                                            W      
+. .                                                                .  
+                                                                     .
+Legend: W = warehouse   A = agent start   . = package destination
